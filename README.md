@@ -15,4 +15,4 @@ A [solution](https://github.com/jhenligne/shoreline) to a job offer problem by [
 A solution to a job offer code sample from [Tsuru Capital](https://www.tsurucapital.com/en/code-sample.html)  
 This job offer is still active so I will provide source code to any employer asking for it (jhderaigniac [@] protonmail [.] com)  
 
-More details in my [Twitter posts](https://twitter.com/JHRaigniac) and in my [LinkedIn profile] (https://www.linkedin.com/in/jean-hugues-de-raigniac/en)  
+More details in my [Twitter posts](https://twitter.com/JHRaigniac) and in my [LinkedIn profile](https://www.linkedin.com/in/jean-hugues-de-raigniac/en)  
