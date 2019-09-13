@@ -13,6 +13,7 @@ Proof of Concept of a Haskell project parser reusing the 3D analysis tool of Rel
 A [report](https://beta.observablehq.com/@jhenligne/hackage-a-timeline) on Hackage ecosystem. Use of FP on the Front End with [Ramda (a functional library for JavaScript)](https://ramdajs.com/docs/). I hope to find time to publish more reports as I still have a lot of data produced by my parsing scripts (written in Haskell).
 
 ### Playing with graphs
+![Graph](screenshots/Graph.png)
 A [solution](https://github.com/jhenligne/shoreline) to a job offer problem by [Shoreline](https://shorelinesoftware.com/software-engineer-language/) 
 
 ### Parsing the Market Data Feed
