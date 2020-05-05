@@ -1,4 +1,5 @@
 # Portfolio
+Note: Safari does not automatically load images, please consider using an alternate browser (it works with Firefox and Chrome on my laptop).
 ## Java
 ![Relief](screenshots/Relief.png)
 Relief, an Open Source software I designed and implemented. It is a Java source code and bytecode parser displaying relevant data in a 3D analysis tool.  
